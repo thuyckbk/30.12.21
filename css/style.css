@@ -16,10 +16,11 @@ body{
     display: inline;
     float: left;
     padding-left: 30px;
+}
 .manu{
     float: left;
 }
-}
+
 .manu ul, .manu li{
     padding:0;
     margin:0;
